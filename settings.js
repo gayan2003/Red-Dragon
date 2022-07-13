@@ -26,16 +26,16 @@ global.owner = ['+94760643933'] //Owner number in aive msg
 global.premium = ['+94760643933'] //Owner Number info
 global.ownernomer = '+94760643934' //Owner Number <<<
 
-global.ownername = 'Lucifer md🥎' //Owner Name
-global.botname = 'Lucifer md🥎' //Bot Name
+global.ownername = 'Lucifer md 🥎' //Owner Name
+global.botname = 'Lucifer md 🥎' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
 global.region = 'sri lanka, north central province, kekirawa' //Country Region
 
-global.packname = 'Lucifer md🥎' //Bot Pacage Name
-global.author = 'Lucifer md🥎' //Author Name
+global.packname = 'Lucifer md 🥎' //Bot Pacage Name
+global.author = 'Lucifer md 🥎' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
